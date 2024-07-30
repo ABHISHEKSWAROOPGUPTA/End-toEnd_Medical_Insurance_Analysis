@@ -85,3 +85,5 @@ Analysis of claim amounts and identification of high-claim patients.
 
 ## Check Out the SQL script
 Kindly click on this link to check out the SQL script:
+
+https://github.com/ABHISHEKSWAROOPGUPTA/End-toEnd_Medical_Insurance_Analysis/blob/b4d11011b3fd2c8d43c4c9ca29a8638bbaf703d8/SQL%20Script.sql
